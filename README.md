@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm amir hossin fekri a passionate web designer and developer based in iran. 🚀
+I'm amir hossin fekri a passionate developer . 🚀
 
 ## About Me
 
